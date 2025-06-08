@@ -1,6 +1,6 @@
 # 🌐 SeamlessCross: Ripple-Powered Global Transfers
 
-> Built for the Ripple x EasyA Singapore Hackathon by Team J-W
+> Built for the Ripple x EasyA Singapore Hackathon
 
 ## 🚀 Overview
 

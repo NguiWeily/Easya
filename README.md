@@ -5,7 +5,9 @@
 ## 🚀 Overview
 
 SeamlessCross enables lightning-fast, secure cross-border payments using the XRP Ledger. This project features OTP-verified transactions, multi-currency support, and real-time analytics. 
+
 Slides: https://www.canva.com/design/DAGpu5p2ekQ/1HgGk6mbwtUnMIzyaRTn_Q/edit?utm_content=DAGpu5p2ekQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 Video: https://youtu.be/Rz8vfrOt7Mo
 
 ## 🧱 Tech Stack
